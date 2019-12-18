@@ -1,0 +1,10 @@
+@@||google.com/uds/*$script,subdocument,document,domain=suche.netzwelt.de
+@@||suche.netzwelt.de^$elemhide
+@@||google.com/aclk^$domain=suche.netzwelt.de,subdocument
+@@||googleadservices.com/pagead/aclk^$domain=suche.netzwelt.de,subdocument
+||images.netzwelt.de/partner/*
+@@||guruads.de/api/view/*$script,domain=t3n.de
+@@||guruads.de/u/b/*$image,domain=t3n.de
+@@$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANnylWw2vLY4hUn9w06zQKbhKBfvjFUCsdFlb6TdQhxb9RXWXuI4t31c+o8fYOv/s8q1LGPga3DE1L/tHU4LENMCAwEAAQ,image,~image
+@@||influads.com^$script,image
+@@||adcloud.net^$domain=focus.de,script,image

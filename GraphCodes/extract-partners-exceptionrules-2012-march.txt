@@ -1,0 +1,5 @@
+! Text-based search ads on suche.netzwelt.de
+! Static image ads on t3n.de
+! Text ads on Sedo parking domains
+! Static text/image ads by InfluAds 
+! Static text/image ads by AdCloud on focus.de 

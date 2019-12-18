@@ -1,0 +1,40 @@
+! Text-based search ads on netzwelt.de
+! Static image ads on t3n.de
+! Text ads on Sedo parking domains
+! Static text/image ads by InfluAds 
+! Adsense ads on hon30.org 
+! Amazon text ads 
+! Sponsored search results on 1&1 websites 
+! Renego sponsored search results 
+! Adsense on BrainLeg.com 
+! Text/image ads on heise.de 
+! Sponsored search results on izito.com 
+! Sponsored search results on zoeken.nl and related websites 
+! ixquick/startpage.com sponsored search results 
+! Text/image ads by Stilanzeigen 
+! eBay sponsored search results 
+! Google ads on meinestadt.de 
+! AdSense on StandS4 Network sites 
+! "AdChoices" text ads and Sponsored Google Results on the bottom on similarsites.com 
+! Google text ads between entries and Chitika text ads on the bottom on topsite.com 
+! Static banners on sc2tv.ru 
+! Google's Sponsored Search Results on ehow.com 
+! Google Sponsored Links below the content and "Related Ads" in top right corner on ehow.com 
+! Google text ads above, under and right side of search results on Golem.de 
+! Google text ads between article and comments on Golem.de 
+! Google AdSense text ads on recycledmistakes.com 
+! chip.de search ads 
+! Sponsored links 
+! suche.freenet.de search ads 
+! quoka.de content ads 
+! quoka.de search ads 
+! Static text/image ads by FusionAds 
+! Google text ads at the bottom on softconstructors.com 
+! Google text ads on the right on t.du9l.com 
+! LiveStrong AdSense text-ads 
+! LiveStrong Google AFS text-ads 
+! Stadtbranchenbuch.com/.at text ads 
+! Whitelists for DoubleClick/Adsense conversion tracking #1
+! YieldKit in-text affiliate links 
+! Whitelists for DoubleClick/Adsense conversion tracking #2
+! Whitelists in order to workaround bug #467514 

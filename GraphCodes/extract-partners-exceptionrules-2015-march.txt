@@ -1,0 +1,360 @@
+! Text-based search ads on netzwelt.de
+! Static image ads on t3n.de
+! Text ads on Sedo parking domains
+! Static text/image ads by InfluAds 
+! Adsense ads on hon30.org 
+! Amazon text ads 
+! Sponsored search results on 1&1 websites 
+! Renego sponsored search results 
+! Adsense on BrainLeg.com 
+! Text/image ads on heise.de 
+! Sponsored search results on izito.com 
+! Sponsored search results on zoeken.nl and related websites 
+! ixquick/startpage.com sponsored search results 
+! Text/image ads by Stilanzeigen 
+! AdSense on StandS4 Network sites 
+! "AdChoices" text ads and Sponsored Google Results on the bottom on similarsites.com 
+! Google text ads between entries and Chitika text ads on the bottom on topsite.com 
+! Google's Sponsored Search Results on ehow.com 
+! Google Sponsored Links below the content and "Related Ads" in top right corner on ehow.com 
+! Google text ads above, under and right side of search results on Golem.de 
+! Google text ads between article and comments on Golem.de 
+! Google AdSense text ads on recycledmistakes.com 
+! chip.de search ads 
+! Sponsored links 
+! Temporary whitelist for issue https://adblockplus.org/forum/viewtopic.php?f=10&t=18357
+! suche.freenet.de search ads 
+! freenet.de content ads 
+! quoka.de content ads 
+! quoka.de search ads 
+! Static text/image ads by FusionAds 
+! Google text ads at the bottom on softconstructors.com 
+! LiveStrong AdSense text-ads 
+! LiveStrong Google AFS text-ads 
+! Opendi AG sites 
+! YieldKit in-text affiliate links 
+! wg-gesucht.de Google and Plista text ads 
+! mail.bg small static banner ads 
+! droidmid.com.ua Google and Yandex ads 
+! ecosia.org sponsored search results 
+! gutefrage.net network search & content ads 
+! helpster.de search & content ads 
+! cosmiq.de content ads 
+! jimlynch.com & Co. ads 
+! jakubmarian.com Google text ads in the right sidebar 
+! catzware.com ads 
+! pointoo.de search & content ads 
+! tv-nostalgie.de ads 
+! Cylex content ads 
+! Cylex search ads 
+! reawakens.net Google text ads 
+! rctgo.com ads 
+! winfuture.de content ads 
+! winfuture.de content ads #2
+! winfuture.de search ads 
+! Google text ads on parked domains from ParkingCrew 
+! it-psycho.de ads Google text ad 
+! Testsucher.de ads Google AdSense ad 
+! bibercraft.de Amazon ads 
+! thefreedictionary.com ads 
+! lee.org ads 
+! pervushin.com ads 
+! events12.com ads 
+! tsvbodnegg.de ads 
+! tools4free.eu ads 
+! Google search ads 
+! Google Maps
+! Google Static
+! Google Ad Services
+! Fix for secondlife.com
+! computerbase.de ads 
+! computerbase.de ads 
+! computerbase.de ads 
+! kitor.pl ads 
+! spotsify.com ads 
+! code-reference.com ads 
+! blogginger.de ads 
+! eaveselectrical.co.uk ads 
+! minecraft.dlk.pl ads 
+! innenaussen.com ads 
+! tabletsbaratas.net ads 
+! Text ads on parked domains from Uniregistry 
+! bancmoteur.com ads 
+! cuisine-ultime.fr ads 
+! blogdemigueldiaz.com ads 
+! e-cougar.fr ads 
+! mamapages.ru ads 
+! olek.tk ads 
+! yourlaws.ca ads 
+! domikdom.ru ads 
+! android-forum.hu ads 
+! strickmuehle.com ads 
+! comunicom.ru ads 
+! edumagazin.de ads 
+! spielwiki.de ads 
+! udlun.com ads 
+! animeblogreviews.com ads 
+! AdGoal in-text affiliate links 
+! energyauditorhq.com ads 
+! eolienne.f4jr.org ads 
+! Skimlinks ads 
+! Skimlinks conversion tracking whitelists 
+! Adcell
+! Zanox
+! joofaq.ru ads 
+! ship.org.ua ads
+! pdasite.pl ads 
+! koleso-sovetsk.ru ads 
+! netdoktor.de content ads 
+!A2
+!A5
+!A6
+!A8
+!A9
+!A10
+!A11
+!A12
+!A13
+!A14
+!A15
+!A16
+!A17
+!A18
+!A19
+!A20
+!A21
+!A22
+!A23
+!A24
+!A25
+!A26
+!A27
+!A28
+!A29
+!A30
+!A31
+!A32
+!A33
+!A34
+!A35
+!A36
+!A37
+!A38
+!A39
+!A40
+!A41
+!A42
+!A43
+!A44
+!A45
+!A46
+!A47
+!A48
+!A49
+!A50
+!A51
+!A52
+!A53
+!A54
+!A55
+!A56
+!A57
+!A58
+!A59
+!A60
+! yaberemenna.info ads 
+! isitup.org ads 
+! rex4.com ads 
+! Yahoo search/in-feed ads 
+! fastquake.com ads 
+! Yandex ads on windows-phone-7.su 
+! autismoaba.org ads 
+! Onet.pl static text and image ads 
+! mordudejeux.com ads 
+! hackthis.co.uk ads 
+! etymonline.com ads 
+! amerika21.de ads 
+! compactlaw.co.uk ads 
+! gentlesimplicity.com ads 
+! nachbarchat.de ads 
+! futbolitis.com ads 
+! mojdom.net ads 
+! freesp.ru ads 
+! pagewizz.com ads 
+! hummerclubrus.ru ads 
+! smashingmagazine.com ads 
+! coonplace.ru ads 
+! juradmin.com ads 
+! homework.net.ua ads 
+! Youtuberepetir.com Ads 
+! omolody.ru ads 
+! Wikihoops.com ads 
+! orbitz.com, cheaptickets.com and hotwire.com ads 
+! Cracked.com ads 
+! Chip.de Ads 
+! Chip.de Outbrain ads 
+! jubiley.ru Ads 
+! christianfictionreviewguru.blogspot.com.au Ads 
+! Trainphoto.org.ua Ads 
+! Text ads by PageFair 
+! Inodroid.ru Ads 
+! And.ck.ua Ads 
+! tweakguides.com Ads 
+! nutrition-chat-chien.com Ads 
+! Fanorg.net Ads 
+! Cornwallhoney.co.uk Ads 
+! Rezepte-cocktails.de Ads 
+! arttime.org.ua Ads 
+! ekant.ru Ads 
+! hdtrailer.ru Ads 
+! seoslim.ru Ads 
+! inside11.de Ads 
+! Electnext/Versa Sponsored Opinions 
+! iforo.net Ads 
+! yak-zrobyty.pp.ua Ads 
+! about.com ads 
+! wf.uzerbar.ru Ads 
+! magiachisel.ru Ads 
+! chaype.ru Ads 
+! forum.vseoglazah.ru Ads 
+! ried.cl Ads 
+! город-под-солнцем.рф Ads 
+! Iconicphotos.ru Ads 
+! monsterreport.de Ads 
+! cardfight.ru Ads 
+! kupidom2.com Ads 
+! ostroykevse.ru Ads 
+! gold-cottage.ru Ads 
+! webdesigner-tutorials.de Ads 
+! anglissime.com Ads 
+! Renego Ads 
+! payzle.com Ads 
+! narod-sredstva.ucoz.ru Ads 
+! juramagazin.de Ads 
+! moda4u.com.ua Ads 
+! mijnkapitaal.be Ads 
+! Bing.com ads 
+! reverso.net ads 
+! breakoutofyourmind.com and breakoutofyourgrief.com Ads 
+! kidsvod.net Ads 
+! fitnessuebungen-zuhause.de and homegym-exercises.com Ads 
+! booksshouldbefree.com Ads 
+! Outbrain ads 
+! VigLink affiliate links 
+! dogspot.de ads 
+! alexfbp.atwebpages.com ads 
+! glavpoezdrus.ru and forum.glavpoezdrus.ru ads 
+! norma.org.ua ads 
+! ilovefreesoftware.com Ads 
+! Contilla ads 
+! Ilovechilli.com ads 
+! medspecial.ru ads 
+! vlvit.ru ads 
+! Google text ads on parked domains from Digimedia 
+! Ads by Netzathleten 
+! t4mag.com ads 
+! popculture-y.com Ads 
+! Amazon Associates affiliate links 
+! t-online.de ads 
+! Yahoo display ads 
+! Small text ad with static image below navigation on left side 
+! pkmn.net and pkmn.net/forums Ads 
+! flying-news.com Ads 
+! fwcalc.com Ads 
+! uninst.ru Ads 
+! for-androidos.com Ads 
+! 100cards.ru Ads 
+! gdziezjesc.info Ads 
+! teneriffa-news.com ads 
+! windows-phone-8.ru ads 
+! math1.ru ads 
+! nikkomania.com ads 
+! coloradosports.org ads 
+! reviewsnewage.com ads 
+! t3n.de ads 
+! banana.by ads 
+! senseyeesports.com ads 
+! ccnahub.com ads 
+! nakomputer.ru ads 
+! 101sovet.ucoz.net ads 
+! Ads on sites by CCM Benchmark Group 
+! Ads on sites by Gamer Network 
+! englishculturalrevival.com ads 
+! videoquality.pl ads 
+! nazwiska-polskie.pl and tablica-rejestracyjna.pl ads 
+! zrenue.com ads 
+! dartosphere.org ads 
+! allanekdot.ru ads 
+! linuxrussia.com ads 
+! fincalculator.ru ads 
+! thenoob.net ads 
+! mrkmg.com ads 
+! diary.anek.ws ads 
+! 01referencement.com ads 
+! Taboola ads 
+! pexels.com ads 
+! cyfrowydoradca.pl ads 
+! pulsir.eu ads 
+! doorinworld.ru ads 
+! Mered.de ads 
+! Linkedin.com ads 
+! imgur.com ads 
+! ted.com ads 
+! wot-top.ru ads 
+! geolounge.com ads 
+! gislounge.com ads 
+! darkstoorm.pl ads 
+! finanology.co ads 
+! ellomedia.de ads 
+! witnessmyrage.com ads 
+! korenovsk.net ads 
+! hec.su ads 
+! Theiapolis.com ads 
+! urban-legend.net ads 
+! divertir.eu ads 
+! rainbowdash.net ads 
+! Ads by Socialmart 
+! guterhut.de ads 
+! rushtips.com ads 
+! adhs-studien.info ads 
+! homerglenjuniors.org ads 
+! campfyre.org ads 
+! Ads by Nativendo 
+! filedir.com ads 
+! wallpaperme.de ads 
+! ufsin.com ads 
+! chroface.com ads 
+! generadormemes.com ads 
+! mishred.ru ads 
+! netzwelt.de ads 
+! androidworld.it ads 
+! my-personaltrainer.it ads 
+! xboxdynasty.de ads 
+! couchwives.de ads 
+! bestru.ru ads 
+! jonsuh.com ads 
+! techstream.org ads 
+! konevsky.net.ua ads 
+! thewildernist.org ads 
+! androidcentral.com ads 
+! hackandmodz.net ads 
+! gry-online.pl ads 
+! gamepressure.com ads 
+! Purch.com ads 
+! giallozafferano.it ads 
+! Ads by media.net 
+! cameralabs.org ads 
+! Future PLC ads 
+! Conversion tracking whitelisting 
+! DoubleClick/Adsense conversion tracking #1
+! DoubleClick/Adsense conversion tracking #2
+! Webgains conversion tracking 
+! publicidees.com conversion tracking 
+! intelliAd Conversion tracking 
+! Linkconnector conversion tracking 
+! vitrado conversion tracking 
+! effiliation.com conversion tracking 
+! Whitelists in order to workaround bug #467514 
+! Global whitelists for ad tags etc.
+! Combined element hinding whitelist for sites using AFC ads
+! Experimental
