@@ -3,7 +3,6 @@
 *.xml
 GraphCodes/.ipynb_checkpoints/G1_2_affiliates_firstParty-checkpoint.ipynb
 GraphCodes/.ipynb_checkpoints/clean-up-checkpoint.ipynb
-*.png
 GraphCodes/top-domains.txt
 GraphCodes/test.ipynb
 GraphCodes/.ipynb_checkpoints/ER-EL-EP-clean-up-checkpoint.ipynb
