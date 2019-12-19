@@ -1,9 +1,10 @@
+import matplotlib
 import matplotlib.pyplot as plt
 
 # change input file to easyprivacy to obtain graph for easyprivacy
 def extract_data():
     result = {}
-    with open("1_easyprivacy_input.txt") as fi:
+    with open("1_easylist_input.txt") as fi:
         for line in fi:
             string = line
             line = line.split(' ')
@@ -24,6 +25,17 @@ def extract_data():
 
 # change savefig file to easyprivacy to obtain graph for easyprivacy
 def graph_plot(result):
+    font = {'family': 'Liberation Serif',
+            'weight': 'normal',
+            'size': 10
+            }
+
+    matplotlib.rcParams['axes.titlesize'] = 8
+    matplotlib.rcParams['axes.labelsize'] = 8
+    matplotlib.rc('font', **font)
+    # matplotlib.rcParams['text.usetex'] = True
+    matplotlib.rcParams['pdf.fonttype'] = 42
+    matplotlib.rcParams['pdf.use14corefonts'] = True
 
     x1 = []
     y1 = []
@@ -39,11 +51,11 @@ def graph_plot(result):
     plt.xlabel('Time')
     plt.xticks(x1, rotation='vertical',fontsize=7)
     plt.ylabel('Commit Count')
-    plt.title('Commit variations over time as split by month')
     plt.locator_params(axis='x', nbins=18)
 
     plt.legend()
-    plt.savefig('easyprivacy.png')
+    plt.tight_layout()
+    plt.savefig('easylist_gitStats.pdf', format='pdf', dpi=1200)
 
     # plt.show()
 

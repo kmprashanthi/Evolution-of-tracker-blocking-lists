@@ -185,7 +185,7 @@ def graph_gen(entry, years, specific, generic):
     specific = np.array(specific)
     generic = np.array(generic)
 
-    ax.bar(ticks, specific, width=0.5, label='specific', bottom=generic, color='violet')
+    ax.bar(ticks, specific, width=0.5, label='specific', bottom=generic, color='#6888AB')
 
     for p in ax.patches:
         width, height = p.get_width(), p.get_height()
@@ -197,7 +197,7 @@ def graph_gen(entry, years, specific, generic):
                 horizontalalignment='center',
                 verticalalignment='center')
 
-    ax.bar(ticks, generic, width=0.5, label='generic', color='gold')
+    ax.bar(ticks, generic, width=0.5, label='generic', color='#BDB5ED')
 
     for p in ax.patches:
         width, height = p.get_width(), p.get_height()
