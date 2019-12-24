@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # change input file to easyprivacy to obtain graph for easyprivacy
 def extract_data():
     result = {}
-    with open("1_easylist_input.txt") as fi:
+    with open("1_easyprivacy_input.txt") as fi:
         for line in fi:
             string = line
             line = line.split(' ')
@@ -30,8 +30,8 @@ def graph_plot(result):
             'size': 10
             }
 
-    matplotlib.rcParams['axes.titlesize'] = 8
-    matplotlib.rcParams['axes.labelsize'] = 8
+    matplotlib.rcParams['axes.titlesize'] = 12
+    matplotlib.rcParams['axes.labelsize'] = 12
     matplotlib.rc('font', **font)
     # matplotlib.rcParams['text.usetex'] = True
     matplotlib.rcParams['pdf.fonttype'] = 42
@@ -49,13 +49,13 @@ def graph_plot(result):
     plt.plot(x1, y1)
 
     plt.xlabel('Time')
-    plt.xticks(x1, rotation='vertical',fontsize=7)
+    plt.xticks(x1, rotation='vertical',fontsize=12)
     plt.ylabel('Commit Count')
     plt.locator_params(axis='x', nbins=18)
 
     plt.legend()
     plt.tight_layout()
-    plt.savefig('easylist_gitStats.pdf', format='pdf', dpi=1200)
+    plt.savefig('easyprivacy_gitStats.pdf', format='pdf', dpi=1200)
 
     # plt.show()
 

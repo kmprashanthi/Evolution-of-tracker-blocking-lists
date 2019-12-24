@@ -7,6 +7,7 @@
 import tldextract
 from adblockparser import AdblockRules
 import re
+import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 import os, fnmatch
@@ -179,6 +180,17 @@ def set_data(entry, specific, generic):
 
 
 def graph_gen(entry, years, specific, generic):
+
+    font = {'family': 'Liberation Serif', 'weight': 'normal', 'size': 15}
+    # play around with the font size if it is too big or small
+    matplotlib.rcParams['axes.titlesize'] = 12
+    matplotlib.rcParams['axes.labelsize'] = 12
+    matplotlib.rc('font', **font)
+    # matplotlib.rcParams['text.usetex'] = True
+    matplotlib.rcParams['pdf.fonttype'] = 42
+    matplotlib.rcParams['pdf.use14corefonts'] = True
+
+
     ticks = np.arange(len(years))
     fig, ax = plt.subplots()
 
@@ -210,12 +222,12 @@ def graph_gen(entry, years, specific, generic):
                 verticalalignment='center')
 
     ax.set_xlabel('Years')
-    plt.xticks(ticks, years)
+    plt.xticks(ticks, years, rotation='vertical')
     ax.set_ylabel('Count')
     plt.legend(loc='best')
     # plt.show()
-    image_filename = 'easylist-specific-generic' + '.png'
-    plt.savefig(image_filename, bbox_inches='tight')
+    plt.tight_layout()
+    plt.savefig('easylist-specific-generic.pdf', format='pdf', dpi=1200)
 
 
 # In[12]:
